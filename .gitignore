@@ -1,15 +1,15 @@
-# Binários
+# bynary files
 *.exe
 *.dll
 *.so
 *.dylib
 
-# Pastas de build
+# Build artifacts
 bin/
 dist/
 
 # VSCode
 .vscode/
 
-# Variáveis de ambiente
+# Environment variables
 .env
